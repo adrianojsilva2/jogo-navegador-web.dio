@@ -12,4 +12,5 @@ Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de
 
 
 
-![](jogo web.gif)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/13179667/152691317-225d03c9-60a8-4bde-9d55-735f33680a18.gif)
